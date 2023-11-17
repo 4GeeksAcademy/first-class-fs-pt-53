@@ -6,6 +6,7 @@
 .lista {
     color: green;
     font-weight: 700;
+    font-variant: small-caps;
 }
 
 img {
